@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header .headerr{
+    background-color: #4D9AAD;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.imgg{
+    border-radius: 50%;
+    width: 20%;
+    height: 20%;
+}
+
+.profile{
+    text-align: center;
+}
+
+section .passion{
+    background-color: #157293;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-top: 40px;
+}
+
+footer{
+    background-color: #157293;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+    margin-top: 30px;
+}
+.widd{
+    width: 40%;
+    text-align: center;
+}
+.add{
+    font-size: 15px;
+    font-weight: bold;
+}
+.mb{
+    margin-bottom: -10px;
+    
+}
+.coll{
+    padding: 80px 0px 30px 100px;
+    color: #4797AB;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+   padding-left: 100px;
+   padding-right: 100px;
+   padding-bottom: 80px;
+}
+
+.fle{
+    background-color: #324A50;
+    width: 30%;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+.size{
+    font-size: 15px;
+}
